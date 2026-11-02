@@ -22,6 +22,5 @@ Your notes and settings are never touched: they live in WoW's `WTF` folder, and 
 
 ## New things
 
-Hotline is the one that grows. Joe switches new features on one night at a time. When Joe does, a "New tonight" slip pops up in game with a ring and shows you how it works. `/hl features` lists what's on. ForeverBags stays a simple bag.
 
 This repository only holds the release files. The updater never asks for passwords and never touches anything outside those two addon folders.
